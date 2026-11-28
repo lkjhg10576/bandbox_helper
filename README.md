@@ -22,7 +22,7 @@ LRC 歌词推送 + 动态口令（TOTP）账户同步：手机端选歌词或批
 
 ## 技术信息
 
-- 版本：0.1.2
+- 版本：0.1.3
 - API Level：4
 - WASI Version：3
 - 入口：`plugin.wasm`（QuickJS → wasm，componentize-qjs 编译）
